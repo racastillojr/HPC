@@ -1,4 +1,4 @@
-# HPC Scripts to use with Moab
+# HPC scripts to use with Moab
 
 
 These script were created to manage user access to a HPC cluster using Moab. 
